@@ -1,7 +1,6 @@
 
-echo "updating and upgrading packages"
+echo "updating packages"
 sudo apt-get update
-sudo apt-get upgrade
 
 echo "installing python"
 sudo apt-get install python3
